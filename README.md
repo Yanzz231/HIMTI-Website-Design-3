@@ -1,7 +1,7 @@
 <h1>HiMTI Desain 3 🌊</h1>
  
 <p align="center">
-  <img src="./Images/Dashboard.png" width="550" />
+  <img src="/Images/Dashboard.png" width="550" />
 </p>
 
 ## Installation For Window/RDP
