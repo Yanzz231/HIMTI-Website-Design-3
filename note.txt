@@ -1,0 +1,6 @@
+Cara Jalaninnya
+- npm start
+
+
+Require Instal 
+- NodeJs : https://nodejs.org/en/download/package-manager
